@@ -3,7 +3,7 @@ import { defineConfig } from 'umi';
 export default defineConfig({
   routes: [
     {
-      path: '/',
+      path: '/urban_smart_test',
       title: 'login',
       component: '@/pages/index',
       routes: [
